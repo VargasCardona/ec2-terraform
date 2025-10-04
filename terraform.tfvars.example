@@ -1,0 +1,3 @@
+aws_access_key = "access_key_id"
+aws_secret_key = "access_key"
+ec2_key_name   = "keypair_name"
